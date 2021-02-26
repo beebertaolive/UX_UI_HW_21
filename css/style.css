@@ -11,14 +11,23 @@
     width: 200px;
     height: 90px;
 }
+h1, h2{
+    font-family: 'Sacramento', cursive;
+    color: rgb(204, 61, 36);
+}
 
+a, p {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(204, 61, 36);;
+}
 nav {
-    background-color: rgb(32, 95, 212);
+    background-color: rgba(255, 153, 0, 0.301)
+
 }
 
 .jumbotronImg {
   background-image: url("/assets/craftingbee_jumbotron_img.png"); 
-  background-size: cover; 
+  background-size: cover;
 }
 
 form {
