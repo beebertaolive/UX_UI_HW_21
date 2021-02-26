@@ -19,10 +19,14 @@ li {
     border: 1px solid red;
 }
 
+.jumbotronImg {
+  background-image: url("/assets/craftingbee_jumbotron_img.png"); 
+  background-size: cover; 
+}
+
 form {
     padding-left: 300px;
     padding-right: 300px;
     margin: 20px 20px 20px 20px;
     
-
 }
