@@ -18,12 +18,18 @@ p {
     color: white;
     font-weight: bold;
 }
+a:hover {
+    text-decoration: underline;
+  }
+.thumbnailImg {
+    border-radius: 10px;
+}
+
 form {
     padding-left: 200px;
     padding-right: 200px;
     margin: 20px 20px 20px 20px;   
 }
-
 
 .align-start {
    padding-bottom: 15vh; 
@@ -33,4 +39,10 @@ form {
  }
  .align-end {
     padding-top: 15vh; 
+ }
+ #cardImg {
+     width: 150px;   
+ }
+ .card-text {
+     color: white;
  }
